@@ -1,8 +1,9 @@
-
+import 'bulma/css/bulma.css';
 import ProfileCard from './ProfileCard.jsx';
 import AlexImage from './images/alexa.png';
 import CortanaImage from './images/cortana.png';
 import SiriImage from './images/siri.png';
+
 
 
 function App() {
